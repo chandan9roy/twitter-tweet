@@ -61,4 +61,4 @@ Run following commands
 
 ## Go to following urls:
    # http://127.0.0.1:8000/tweets/
-   # http://127.0.0.1:8000/export-tweet/
+   # http://127.0.0.1:8000/export-tweets/

@@ -21,7 +21,7 @@ Twitter Tweets
 
     ./manage.py check
 
-## Migrate Database & Seed Default Data
+## Migrate Database
 
     ./manage.py migrate
 
